@@ -1,15 +1,17 @@
-<h1> Typex-Reducers </h1>
+# Typex-Reducers 
 
 <h3> A lightweight decorator & utility for your React Redux reducers 🔥🔥🔥 </h3> 
 
-<h1> Installation </h1>
+# Installation 
 
 Typex-Reducers is available on npm:
-> $ npm install typex-reducers
+```
+$ npm install typex-reducers
+```
 
 
 
-<h1> Motivation </h1>
+# Motivation 
 
 As I'm scratching the surface of Redux.. Going through that switch cases in your reducers.. Sigh. I told myself, we can get better from this right? 
 Also, I love creating decorators (it may sound biased) 🤣
@@ -99,9 +101,9 @@ export const rootReducer = combineReducers<RootState>({
 
 > And that's it! A much more maintainable and cleaner ✨✨✨
 
-<h1> Contributing </h1>
+# Contributing 
 Any suggestions on how to improve this is VERY OPEN. Open up a issue. This is just another way of doing something. If you liked it, let's collaborate and make the world a better place 😍
 
 
-<h1> License </h1>
+# License 
 MIT
